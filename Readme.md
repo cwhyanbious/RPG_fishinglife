@@ -6,5 +6,4 @@
 
 game.exe运行游戏
 
-github:https://github.com/cwhyanbious/RPG-fishinglife
 
